@@ -25,7 +25,6 @@ playwright-automation
 ├── tests/           # Test cases
 ├── pages/           # Page Object Model (POM)
 ├── fixtures/        # Custom fixtures for test setup
-├── utils/           # Helper functions
 ├── playwright.config.ts
 ├── package.json
 └── README.md
