@@ -109,14 +109,22 @@ Fixtures are used to handle common setup tasks such as login to avoid repeated c
 <img width="885" height="241" alt="image" src="https://github.com/user-attachments/assets/0562f31b-2b39-423d-9eb4-800f62b8f408" />
 
 
+
+
+
 **Checkout flow test:**
 <img width="988" height="218" alt="image" src="https://github.com/user-attachments/assets/aac8f265-cf1d-4dcf-8cc3-7f663db64413" />
 <img width="982" height="948" alt="image" src="https://github.com/user-attachments/assets/f968dbdf-97ac-4444-bab2-e30debe31a19" />
 
 
+
+
+
 **Inventory test:**
 <img width="990" height="234" alt="image" src="https://github.com/user-attachments/assets/965411d3-4216-48b8-8fcb-05fc72f66128" />
 <img width="1009" height="623" alt="image" src="https://github.com/user-attachments/assets/3bb8e75c-aabb-455a-9a8f-778b6fd8a8f6" />
+
+
 
 
 **Login test:**
