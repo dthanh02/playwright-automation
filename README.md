@@ -91,7 +91,6 @@ The framework supports:
 * Smoke Testing
 * Regression Testing
 
----
 
 ## Author
 
