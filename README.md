@@ -6,7 +6,6 @@ This project is an **Automation Testing Framework** built using **Playwright** f
 
 The framework follows best practices such as **Page Object Model (POM)**, reusable fixtures, and modular test structure to ensure scalability and maintainability.
 
----
 
 ## Tech Stack
 
@@ -15,7 +14,6 @@ The framework follows best practices such as **Page Object Model (POM)**, reusab
 * Node.js
 * Git & GitHub
 
----
 
 ## Project Structure
 
@@ -29,8 +27,6 @@ playwright-automation
 ├── package.json
 └── README.md
 ```
-
----
 
 ## Installation
 
@@ -58,7 +54,6 @@ npm install
 npx playwright install
 ```
 
----
 
 ## Running Tests
 
@@ -86,7 +81,6 @@ npx playwright test tests/login.spec.ts
 npx playwright show-report
 ```
 
----
 
 ## Test Strategy
 
